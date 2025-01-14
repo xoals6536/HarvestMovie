@@ -4,4 +4,6 @@
 많은 영화들의 개봉으로 우리는 선택을 해야된다. 좀 더 재미있고 좋은 평점을 보고싶어하는 사람들!
 영화를 좋아하는 분들은 니즈를  충족하기 위해 (Harvestmovie) 사이트를 검색해보세요!
 
-### JSP + Java + Javascript + mysql
+<hr>
+
+Stack : JSP + Java + Javascript + mysql
